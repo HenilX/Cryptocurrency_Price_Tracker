@@ -1,0 +1,59 @@
+
+*{box-sizing: border-box;
+margin: 0;
+padding:0;}
+ 
+
+
+.header {
+  background-color: rgb(5, 14, 30);
+  width: 94.9rem; 
+  
+   
+}
+.footer {
+  background-color: rgba(228, 228, 228, 0.904);
+  
+}
+
+.nav-link:hover {
+  color: rgb(255, 255, 255);
+}
+
+.navbar {
+  background-color: tomato;
+}
+
+.navbar-brand {
+  color: rgb(0, 0, 0);
+  font-size: 40px;
+  font-weight: bold;
+  margin-top: -15px;
+  padding-left: 8px;
+  margin-bottom: -8px;
+}
+
+.nav-link {
+  color: black;
+  margin-top: -3px;
+  font-size: 23px;
+}
+
+.nav-show {
+  color: rgb(216, 204, 204);
+  margin-top: -2px;
+  font-size: 23px;
+}
+
+/* 
+TExtform css
+*/
+
+.first {
+  display: flex;
+  justify-content: center;
+}
+
+.navbar-toggler {
+  background-color: whitesmoke;
+}
